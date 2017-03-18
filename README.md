@@ -1,5 +1,5 @@
 # imagej_plugins
-imagej plugins
+imagej plugins developed by yl ma
 
 1. Unzip Fei Tools.zip
 2. Copy unziped files to \ImageJ\plugins\Fei Tools
