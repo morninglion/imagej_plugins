@@ -10,8 +10,8 @@ imagej plugins developed by y m
 [Favorite Commands]
 1. Click a command name on the dialog to run that command
 2. Click "Customiz Favorite Commands" butotn at the bottom to add or remove commands shown on this dialog
-3. On the Customize Favorite Commands dialog, select one or more command names on the left and then click Remove button on the right to remove the selected commands from the "Favorite Commands" dialog
-4. On the Customize Favorite Commands dialog, expand and select a command on the far right tree and click the "<<<Add" button under Remove button to add the selected command to the "Favorite Commands" dialog
+3. On the "Customize Favorite Commands" dialog, select one or more command names on the left and then click "Remove" button on the right to remove the selected commands from the "Favorite Commands" dialog
+4. On the "Customize Favorite Commands" dialog, expand and select a command on the far right tree and click the "<<<Add" button under Remove button to add the selected command to the "Favorite Commands" dialog
 
 [Oval Select]
 1. Check "Show All" and "Labels" options in "ROI Manager"
