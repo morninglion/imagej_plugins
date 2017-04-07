@@ -3,10 +3,10 @@ imagej plugins developed by y m
 
 [Install]
 1. Windows user: unzip "Fei Tools.zip"
-   Mac user: unzip "Fei Tools-mac.zip"
-2. Copy unziped files to \ImageJ\plugins\Fei Tools
-3. Restart ImageJ
-4. Goto menu Plugins->Fei Tools->Favorite Commands
+2. Mac user: unzip "Fei Tools-mac.zip"
+3. Copy unziped files to \ImageJ\plugins\Fei Tools
+4. Restart ImageJ
+5. Goto menu Plugins->Fei Tools->Favorite Commands
 
 [Favorite Commands]
 1. Click a command name on the dialog to run that command
